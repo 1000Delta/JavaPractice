@@ -1,0 +1,20 @@
+INDEX VERSION 1.130+D:\DeltaX\Documents\code\Java\.metadata\.plugins\org.eclipse.jdt.core
+1138026456.index
+428417084.index
+4234874978.index
+1356631932.index
+436138562.index
+2519930347.index
+3874716929.index
+1975514779.index
+597517851.index
+2616404067.index
+1553418590.index
+2353531385.index
+4178119365.index
+2430692881.index
+1466077673.index
+1341514812.index
+1657330681.index
+3266712443.index
+2920066044.index
